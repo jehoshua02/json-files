@@ -8,5 +8,7 @@
             "email": "jehoshua02@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "phpunit/phpunit": "^4.7"
+    }
 }
