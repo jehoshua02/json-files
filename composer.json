@@ -1,0 +1,12 @@
+{
+    "name": "jehoshua02/json-files",
+    "description": "Helper classes for loading and iterating json files.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Stoutenburg",
+            "email": "jehoshua02@gmail.com"
+        }
+    ],
+    "require": {}
+}
