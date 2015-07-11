@@ -10,5 +10,10 @@
     ],
     "require": {
         "phpunit/phpunit": "^4.7"
+    },
+    "autoload": {
+      "psr-4": {
+        "Stoutie\\JsonFiles\\": "./src/classes"
+      }
     }
 }
